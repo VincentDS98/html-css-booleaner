@@ -3,6 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+/*
+generale
+
+*/
+.colored{
+    color: grey;
+    
+}
+
+.inner-link{
+    color: #4EA0FF;
+}
+
+.colored1{
+    background-color: yellow;
+}
+
+
+
 
 /*
 header
@@ -14,4 +33,12 @@ header{
 
 img{
     width: 200px;
+}
+
+/*
+main
+*/
+
+.aligned{
+    text-align: left;
 }
